@@ -1,0 +1,38 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Local secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+token.json
+
+# Clinical data and generated artifacts
+/data/
+/datasets/
+/raw_data/
+/outputs/
+/results/
+/checkpoints/
+/runs/
+
+# Transformer model artifacts
+third_party/transformer-deid/transformer_models/
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,129 @@
+ 
+Name:  LASTNAME,FIRSTNAME              Unit No:   9999998
+ 
+Admission Date:  28/06/89              Discharge Date:   02/07/89
+ 
+Date of Birth:  01/01/1960             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Azithromycin
+ 
+Attending: COLERIDGE,SAMUEL T.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient has a history of known illnesses including a 
+diagnosis of Asthma. There was no obvious inciting event 
+prior to the onset of pain. She denies vomitting, fevers,
+and diarrhea.
+ 
+In ER: 
+VS: 97.8 85 120/60 16 100%  
+Studies: Abd US: Slightly distended gallbladder. Positive Murphys
+sign. Probable Cholecystitis. HIDA may confirm.
+EKG: NSR.
+Fluids: 2L NS
+Meds: Morphine 4mg IV x 1
+Consults called: gen surgery: Rec HIDA scan.
+
+Review of Systems:  
+(+) Per HPI  
+(-) Denies a whole bunch things.
+ 
+Past Medical History:
+- h/o DVT (1985), currently not on anti-coag
+- h/o kidney stones
+ 
+Social History:
+Married, has 9 children, lives with husband.
+Denies EtOH, tobacco, IVDU. 
+ 
+Family History:
+not relevant
+ 
+Physical Exam:
+VS: 98.0 118/65 83 18 100%RA, 2/10 RUQ pain
+ 
+GEN: Alert
+HEENT: no trauma
+CV: regular rate and rhythm
+GI: + Murphy's sign, soft, non-tender, no rebound
+EXT: no edema
+NEURO: intact, 5/5 motor function globally
+DERM: no lesions appreciated
+
+ 
+Pertinent Results:
+29/06/89 06:00PM URINE  UCG-NEGATIVE
+29/06/89 06:00PM URINE  COLOR-Yellow APPEAR-Clear SP GRAV-1.005
+29/06/89 05:10PM   WBC-7.0# RBC-4.05 HGB-11.2 HCT-38.9 MCV-90 
+MCH-27.4 MCHC-31.5 RDW-15.0
+29/06/89 05:10PM   PLT COUNT-150
+
+LIVER OR GALLBLADDER US
+FINDINGS: 
+The gallbladder is slightly distended with a 1.5-cm gallstone.
+IMPRESSION: 
+Mildly distended gallbladder containing a single gallstone.
+The study and the report were reviewed by the staff radiologist.
+
+
+HIDA scan:  Normal hepatobiliary scan.
+
+ 
+Brief Hospital Course:
+29 yo F admitted with right upper quadrant abdominal pain.
+
+The patient presented with known gallstone disease. Gallstone found.
+HIDA scan was normal. Pain resolved over a day. She should follow-up 
+with her PCP for repeat LFT's.
+ 
+Medications on Admission:
+Gabapentin prn headache
+
+ 
+Discharge Medications:
+1. gabapentin 300 mg Capsule Sig: One (1) Capsule PO DAILY 
+(Daily).
+
+
+Discharge Disposition:
+Home
+
+Discharge Diagnosis:
+Abdominal pain
+Asthma
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+You were admitted with right upper quadrant abdominal pain. 
+Your primary care doctor will help you to decide whether or not you 
+should consider having your gallbladder removed. Please take all 
+of your home medications as prescribed.
+ 
+Followup Instructions:
+Follow-up with your primary care doctor within the next 1-2 
+week.
+
+Name: TOMCAT,MARJORIE YOUNG
+Location: HARVARD VANGUARD MEDICAL ASSOCIATES
+Address: 133 BROOKLINE AVE, BOSTON,MA, 02215
+Phone: 617-555-1234
+Appointment: Friday, July 14th at 11AM
+
+ 
+                             SAMUEL T. COLERIDGE MD 12-ABC
+ 
+Completed by: SAMUEL T. COLERIDGE MD 12-ABC 02/07/89 @ 1021

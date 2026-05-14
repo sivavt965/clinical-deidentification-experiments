@@ -1,0 +1,21 @@
+name: transformer-deid
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.10
+  - nltk
+  - cudatoolkit
+  - pandas
+  - pytest
+  - pytorch
+  - scikit-learn
+  - transformers
+  - accelerate
+  - tokenizers
+  - yapf
+  - pip
+  - pip:
+    - seqeval

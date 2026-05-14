@@ -1,0 +1,184 @@
+{
+    "base": {
+        "NAME": [
+            "NAME",
+            "DOCTOR",
+            "PATIENT",
+            "USERNAME",
+            "HCPNAME",
+            "RELATIVEPROXYNAME",
+            "PTNAME",
+            "PTNAMEINITIAL",
+            "KEYVALUE",
+            "INITIALS", 
+            "MISC"
+        ],
+        "PROFESSION": [
+            "PROFESSION"
+        ],
+        "LOCATION": [
+            "LOCATION",
+            "LOC",
+            "DEPARTMENT",
+            "HOSPITAL",
+            "ORGANIZATION",
+            "ORG",
+            "URL",
+            "STREET",
+            "STATE",
+            "CITY",
+            "COUNTRY",
+            "ZIP",
+            "LOCATION-OTHER",
+            "PROTECTED_ENTITY",
+            "PROTECTED ENTITY",
+            "NATIONALITY"
+        ],
+        "AGE": [
+            "AGE",
+            "AGE_>_89",
+            "AGE > 89"
+        ],
+        "DATE": [
+            "DATE",
+            "DATEYEAR", 
+            "TIME"
+        ],
+        "ID": [
+            "BIOID",
+            "DEVICE",
+            "HEALTHPLAN",
+            "IDNUM",
+            "MEDICALRECORD",
+            "MRN",
+            "ID",
+            "IDENTIFIER",
+            "OTHER", 
+            "MRN", 
+            "000000", 
+            "ACCESSION", 
+            "GENERAL-ORDER"
+        ],
+        "CONTACT": [
+            "EMAIL",
+            "FAX",
+            "PHONE",
+            "CONTACT",
+            "IPADDR",
+            "IPADDRESS", 
+            "EMAIL/URL"
+        ],
+        "O": [
+            "O"
+        ]
+    },
+    "hipaa": {
+        "NAME": [
+            "NAME",
+            "PATIENT",
+            "USERNAME",
+            "RELATIVEPROXYNAME",
+            "PTNAME",
+            "PTNAMEINITIAL",
+            "KEYVALUE"
+        ],
+        "LOCATION": [
+            "LOCATION",
+            "ORGANIZATION",
+            "HOSPITAL",
+            "STREET",
+            "CITY",
+            "ZIP",
+            "URL",
+            "PROTECTED_ENTITY",
+            "PROTECTED ENTITY",
+            "LOCATION-OTHER"
+        ],
+        "AGE": [
+            "AGE",
+            "AGE_>_89",
+            "AGE > 89"
+        ],
+        "DATE": [
+            "DATE",
+            "DATEYEAR"
+        ],
+        "ID": [
+            "BIOID",
+            "DEVICE",
+            "HEALTHPLAN",
+            "IDNUM",
+            "MEDICALRECORD",
+            "ID",
+            "IDENTIFIER",
+            "OTHER"
+        ],
+        "CONTACT": [
+            "EMAIL",
+            "FAX",
+            "PHONE",
+            "CONTACT",
+            "IPADDR",
+            "IPADDRESS"
+        ],
+        "O": [
+            "DOCTOR",
+            "HCPNAME",
+            "PROFESSION",
+            "STATE",
+            "COUNTRY",
+            "NATIONALITY",
+            "O"
+        ]
+    },
+    "binary": {
+        "PHI": [
+            "NAME",
+            "PATIENT",
+            "USERNAME",
+            "RELATIVEPROXYNAME",
+            "PTNAME",
+            "PTNAMEINITIAL",
+            "DOCTOR",
+            "KEYVALUE",
+            "HCPNAME",
+            "INITIALS",
+            "LOCATION",
+            "ORGANIZATION",
+            "HOSPITAL",
+            "PROTECTED_ENTITY",
+            "PROTECTED ENTITY",
+            "LOCATION-OTHER",
+            "STREET",
+            "CITY",
+            "ZIP",
+            "STATE",
+            "COUNTRY",
+            "NATIONALITY",
+            "URL",
+            "AGE",
+            "AGE_>_89",
+            "AGE > 89",
+            "DATE",
+            "DATEYEAR",
+            "BIOID",
+            "DEVICE",
+            "HEALTHPLAN",
+            "IDNUM",
+            "MEDICALRECORD",
+            "ID",
+            "IDENTIFIER",
+            "OTHER",
+            "EMAIL",
+            "FAX",
+            "PHONE",
+            "CONTACT",
+            "PROFESSION",
+            "IPADDR",
+            "IPADDRESS"
+        ],
+        "O": [
+            "O"
+        ]
+    }
+}
