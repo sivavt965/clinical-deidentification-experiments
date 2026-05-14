@@ -62,6 +62,24 @@ python transformer_deid/train.py -m bert -i <dataset_path> -o <output_path> -e 5
 
 Supported model values are `bert`, `distilbert`, and `roberta`.
 
+## Planned Improvements
+
+This repository needs regular small commits to stay useful as a portfolio project. The next changes should focus on making the experiment observable and demo-friendly:
+
+- Add a metrics script for precision, recall, F1, and support by PHI label
+- Add entity-level and token-level evaluation summaries
+- Add a small inference script that accepts sample text and returns redacted text plus detected PHI spans
+- Add a lightweight Streamlit demo for interactive de-identification
+- Show a styled output view with highlighted PHI spans, redacted text, and a compact metrics panel
+- Keep trained checkpoints and private datasets outside Git; link external artifacts only when they are safe to share
+
+## Maintenance Plan
+
+- Use short commits for each visible improvement rather than one large final upload
+- Keep a simple changelog or README status note when metrics, inference, or demo features change
+- Re-run tests after touching tokenization, labeling, or evaluation behavior
+- Avoid adding any real clinical note text, patient data, credentials, or model weights to the repository
+
 ## Attribution
 
 If you use the included Transformer-DeID code, cite the upstream project:
